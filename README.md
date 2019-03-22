@@ -1,5 +1,5 @@
 # Jenkins Shared Library
-Shared Library sample for Jenkins
+> Shared Library sample for Jenkins
 
 
 ## Jenkins job example:
@@ -32,3 +32,6 @@ Shared Library sample for Jenkins
 
 The _src_ directory should look like standard Java source directory structure. This directory is added to the classpath when executing Pipelines.
 The _vars_ directory hosts script files that are exposed as a variable in Pipelines. 
+
+## Reference
+[Shared libraries](https://jenkins.io/doc/book/pipeline/shared-libraries/)
